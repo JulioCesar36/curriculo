@@ -1,0 +1,82 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, #0307fcc7,#027af286);
+}
+h1{
+    background-image: linear-gradient(to right, #0307fc80,#027af286);
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 150px;
+  
+}
+p  { 
+    background-color: #efefef;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.548) ;
+    max-width: 500px;
+    text-align: center;
+    margin: auto;
+    font-size: 1.5em;
+    line-height: 1.5em;  
+               
+}
+ul{
+    background-color: #efefef;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.548) ;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    font-size: 1.5em; 
+}
+
+h2{
+    background-image: linear-gradient(to right, #0307fc89,#027af286);
+    margin:30px ;
+    margin-bottom: 50px;
+    padding:10px ;
+    border-radius: 3px;
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+}
+div{
+    display:flex;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+   
+}
+#objetivo{
+    text-align: center;
+    margin: auto;
+    font-size: 1.5em;
+    max-width: 600px;
+    background-color: #efefef;
+}
+a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    transition: .5s;
+    margin: 0.5em;
+   border-radius: 5px;
+}
+a:hover{
+    color:#f1f904 ;
+}
+#contato{
+    line-height: 2em;
+}
